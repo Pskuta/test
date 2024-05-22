@@ -14,9 +14,12 @@ Projekt został stworzony z wykorzystaniem:
 
 ## Skład zespołu
 
+
+**Radosław Jasiński**
+
 Programiści:
 ```
-__Radosław Jasiński__
+Radosław Jasiński
 Janus Eliza
 Wiktoria Wójcik
 Filip Borowiec
