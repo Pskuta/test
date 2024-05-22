@@ -6,7 +6,7 @@
 
 ## Informacje
 
-Projekt, nad którym pracowaliśmy, dotyczył stworzenia gry komputerowej typu strzelanki, przygodowej gry akcji
+Projekt nad którym pracowaliśmy, dotyczył stworzenia gry komputerowej typu strzelanki, przygodowej gry akcji
 z elementami roguelike, które obejmują między innymi proceduralnie generowany świat oraz permanentną śmierć, 
 wymuszając na graczu rozpoczynanie rozgrywki od nowa w przypadku śmierci postaci.
 
