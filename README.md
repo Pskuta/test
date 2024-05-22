@@ -28,8 +28,10 @@ Projekt został stworzony z wykorzystaniem:
 ## Skład zespołu
 
 Programiści:
+
+Lider zespołu: __Radosław Jasiński__
 ```
-_Radosław Jasiński_
+Radosław Jasiński
 Janus Eliza
 Wiktoria Wójcik
 Filip Borowiec
@@ -39,6 +41,8 @@ Tomasz Szarek
 ```
 
 Graficy:
+
+Lider zespołu: __Sebastian Pindral__
 ```
 Sebastian Pindral
 Julia Piotrowska
@@ -47,6 +51,8 @@ Tomasz Zimnicki
 ```
 
 Scenarzyści:
+
+Lider zespołu: __Konrad Sochacki__
 ```
 Konrad Sochacki
 Bartosz Klimczak
