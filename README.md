@@ -72,7 +72,7 @@ Michał Szot
 
 ![](https://github.com/Pskuta/test/blob/main/ss3.jpg)
 
-![](https://github.com/Pskuta/test/blob/main/ss4.jpg)
+![](https://github.com/Pskuta/test/blob/main/ss4.png)
 
 
 
