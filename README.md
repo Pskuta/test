@@ -29,6 +29,8 @@ Projekt został stworzony z wykorzystaniem:
 
 Kierownik: __Radosław Jasiński__
 
+
+
 Programiści:
 
 Lider zespołu: __Jakub Kotwica__
