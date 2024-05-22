@@ -16,9 +16,9 @@ Projekt został stworzony z wykorzystaniem:
 
 Programiści:
 ```
+**Radosław Jasiński**
 Janus Eliza
 Wiktoria Wójcik
-Radosław Jasiński
 Filip Borowiec
 Jakub Kotwica
 Bartosz Sułek
@@ -27,15 +27,15 @@ Tomasz Szarek
 
 Graficy:
 ```
+**Sebastian Pindral**
 Julia Piotrowska
 Halyna Khoprova
-Sebastian Pindral
 Tomasz Zimnicki
 ```
 
 Scenarzyści:
 ```
-Konrad Sochacki
+**Konrad Sochacki**
 Bartosz Klimczak
 Piotr Skuta
 Michał Szot
