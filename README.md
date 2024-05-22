@@ -13,7 +13,7 @@ wymuszając na graczu rozpoczynanie rozgrywki od nowa w przypadku śmierci posta
 Styl graficzny, który wybraliśmy do stworzenia gry to pixelart, jest to prosty i klarowny styl, zapewniający
 dużą elastyczność podczas tworzenia oprawy artystycznej. Projekt został zrealizowany w klimacie dark fantasy,
 charakteryzującym się przede wszystkim mroczną atmosferą oraz obecnością magii i istot nadprzyrodzonych, które nie opuszczają 
-nas od momentu rozpoczęcia rozgrywki aż do końca.
+nas od momentu rozpoczęcia rozgrywki aż do jej końca.
 
 Nasza praca nad projektem opierała się na dwutygodniowych sprintach, gdzie po upływie ustalonego czasu spotykaliśmy się wszyscy
 na platformie Discord w celu pokazania naszych postępów nad projektem oraz dyskusji na temat dalszych planów odnośnie gry.
