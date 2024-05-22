@@ -37,6 +37,7 @@ Lider zespołu: __Jakub Kotwica__
 ```
 Janus Eliza
 Wiktoria Wójcik
+Jakub Kotwica
 Radosław Jasiński
 Filip Borowiec
 Bartosz Sułek
@@ -49,6 +50,7 @@ Lider zespołu: __Sebastian Pindral__
 ```
 Julia Piotrowska
 Halyna Khoprova
+Sebastian Pindral
 Tomasz Zimnicki
 ```
 
@@ -56,6 +58,7 @@ Scenarzyści:
 
 Lider zespołu: __Konrad Sochacki__
 ```
+Konrad Sochacki
 Bartosz Klimczak
 Piotr Skuta
 Michał Szot
