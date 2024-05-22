@@ -42,11 +42,7 @@ Piotr Skuta
 Michał Szot
 ```
 
-## Zrzuty ekranu oraz gify
-
-![](https://github.com/Pskuta/test/blob/main/obraz1.gif)
-
-![](https://github.com/Pskuta/test/blob/main/obraz2.gif)
+## Zrzuty ekranu 
 
 ![](https://github.com/Pskuta/test/blob/main/ss1.jpg)
 
