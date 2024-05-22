@@ -29,7 +29,7 @@ Projekt został stworzony z wykorzystaniem:
 
 Programiści:
 ```
-Radosław Jasiński
+_Radosław Jasiński_
 Janus Eliza
 Wiktoria Wójcik
 Filip Borowiec
