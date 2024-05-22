@@ -15,7 +15,7 @@ Projekt został stworzony z wykorzystaniem:
 ## Skład zespołu
 
 
-**Radosław Jasiński**
+
 
 Programiści:
 ```
@@ -30,7 +30,7 @@ Tomasz Szarek
 
 Graficy:
 ```
-__Sebastian Pindral__
+Sebastian Pindral
 Julia Piotrowska
 Halyna Khoprova
 Tomasz Zimnicki
@@ -38,7 +38,7 @@ Tomasz Zimnicki
 
 Scenarzyści:
 ```
-__Konrad Sochacki__
+Konrad Sochacki
 Bartosz Klimczak
 Piotr Skuta
 Michał Szot
