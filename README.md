@@ -9,9 +9,8 @@ This project is simple Lorem ipsum dolor generator.
 	
 ## Użyte technologie
 Projekt został stworzony z wykorzystaniem:
-* Lorem version: 12.3
+* Unity: 2022.3.21f1
 * Ipsum version: 2.33
-* Ament library version: 999
 
 ## Skład zespołu
 
