@@ -46,6 +46,17 @@ Michał Szot
 
 ![](https://github.com/Pskuta/test/blob/main/obraz1.gif)
 
+![](https://github.com/Pskuta/test/blob/main/obraz2.gif)
+
+![](https://github.com/Pskuta/test/blob/main/ss1.jpg)
+
+![](https://github.com/Pskuta/test/blob/main/ss2.jpg)
+
+![](https://github.com/Pskuta/test/blob/main/ss3.jpg)
+
+![](https://github.com/Pskuta/test/blob/main/ss4.jpg)
+
+
 
 
 
