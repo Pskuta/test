@@ -1,13 +1,14 @@
-## Spis tresci
-* [Generalne informacje](#generalne-informacje)
+## Spis treści
+* [Informacje](#informacje)
 * [Użyte technologie](#użyte-technologie)
 * [Skład zespołu](#skład-zespołu)
+* * [Zrzuty ekranu](#zrzuty-ekranu)
 
-## Generalne informacje
+## Informacje
 This project is simple Lorem ipsum dolor generator.
 	
 ## Użyte technologie
-Project is created with:
+Projekt został stworzony z wykorzystaniem:
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
@@ -16,24 +17,33 @@ Project is created with:
 
 Programiści:
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+Janus Eliza
+Wiktoria Wójcik
+Radosław Jasiński
+Filip Borowiec
+Jakub Kotwica
+Bartosz Sułek
+Tomasz Szarek
+```
+
+Graficy:
+```
+Julia Piotrowska
+Halyna Khoprova
+Sebastian Pindral
+Tomasz Zimnicki
 ```
 
 Scenarzyści:
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+Konrad Sochacki
+Bartosz Klimczak
+Piotr Skuta
+Michał Szot
 ```
+
+
 
  
-## Setup
-To run this project, install it locally using npm:
+##Zrzuty ekranu 
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
