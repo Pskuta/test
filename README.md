@@ -27,7 +27,7 @@ Projekt został stworzony z wykorzystaniem:
 
 ## Skład zespołu
 
-Kierownik: __Radosław Jasiński__
+Kierownik projektu: __Radosław Jasiński__
 
 
 
