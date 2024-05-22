@@ -44,7 +44,9 @@ Michał Szot
 
 ## Zrzuty ekranu oraz gify
 
-![](https://github.com/test/obraz1.gif)
+![](https://github.com/Pskuta/test/blob/main/obraz1.gif)
+
+
 
 
 
