@@ -31,7 +31,6 @@ Programiści:
 
 Lider zespołu: __Radosław Jasiński__
 ```
-Radosław Jasiński
 Janus Eliza
 Wiktoria Wójcik
 Filip Borowiec
@@ -44,7 +43,6 @@ Graficy:
 
 Lider zespołu: __Sebastian Pindral__
 ```
-Sebastian Pindral
 Julia Piotrowska
 Halyna Khoprova
 Tomasz Zimnicki
@@ -54,7 +52,6 @@ Scenarzyści:
 
 Lider zespołu: __Konrad Sochacki__
 ```
-Konrad Sochacki
 Bartosz Klimczak
 Piotr Skuta
 Michał Szot
