@@ -2,7 +2,7 @@
 * [Informacje](#informacje)
 * [Użyte technologie](#użyte-technologie)
 * [Skład zespołu](#skład-zespołu)
-* * [Zrzuty ekranu](#zrzuty-ekranu)
+* [Zrzuty ekranu](#zrzuty-ekranu)
 
 ## Informacje
 This project is simple Lorem ipsum dolor generator.
@@ -42,8 +42,11 @@ Piotr Skuta
 Michał Szot
 ```
 
+## Zrzuty ekranu oraz gify
+
+![](https://github.com/test/obraz1.gif)
 
 
- 
-##Zrzuty ekranu 
+
+
 
