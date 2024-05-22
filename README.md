@@ -27,14 +27,16 @@ Projekt został stworzony z wykorzystaniem:
 
 ## Skład zespołu
 
+Kierownik: __Radosław Jasiński__
+
 Programiści:
 
-Lider zespołu: __Radosław Jasiński__
+Lider zespołu: __Jakub Kotwica__
 ```
 Janus Eliza
 Wiktoria Wójcik
+Radosław Jasiński
 Filip Borowiec
-Jakub Kotwica
 Bartosz Sułek
 Tomasz Szarek
 ```
